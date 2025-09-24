@@ -1,6 +1,6 @@
-# Farman Mohmmad
-Software Developer
-📞 +91-9352823951 📩 farmanwork73@gmail.com  🔗 [LinkedIn] ⚡ [GitHub]
+# Farman Mohmmad  
+Software Developer  
+📞 +91-9352823951 📩 farmanwork73@gmail.com  🔗 [LinkedIn] ⚡ [GitHub]  
 24 September 2025
 
 ### SKILLS
