@@ -1,7 +1,9 @@
 # Farman Mohmmad  
 Software Developer  
-📞 +91-9352823951 📩 farmanwork73@gmail.com  🔗 [LinkedIn] ⚡ [GitHub]  
-24 September 2025
+:telephone_receiver: +91-9352823951  
+:inbox_tray: farmanwork73@gmail.com    
+:linkedin: [LinkedIn](https://www.linkedin.com/in/farman-m-b52833167/)  
+:calendar: 24 September 2025  
 
 ### SKILLS
  **MOBILE DEVELOPMENT** | *Flutter, Dart, React Native*  
@@ -12,7 +14,7 @@ Software Developer
  ### EDUCATION  
 B.Tech, Computer Science  
 [Sobhasaria Group of Institutions, RTU Kota](https://www.secs.ac.in/)  
-2014 - 2018 Rajasthan, India
+:calendar: 2014 - 2018 :earth_asia: Rajasthan, India
 
 ###  PROJECTS  
 **[Slate Render](https://pub.dev/packages/slate_render)**  
@@ -31,7 +33,7 @@ B.Tech, Computer Science
 ### EXPERIENCE  
 **Software Engineer**  
 [EdisonOS](https://www.edisonos.com/)  
- 12/2022 - 07/2025 Tamil Nadu, India  
+:calendar: 12/2022 - 07/2025 :earth_asia: Tamil Nadu, India  
 
 <ins>Flutter, Dart, Firebase, Automation, Deployment</ins>
 - A software development company specializes in educational technology
@@ -45,7 +47,7 @@ B.Tech, Computer Science
 
 **Software Engineer**  
 <ins>**CodeStreax**</ins>  
-08/2021 - 11/2022 Rajasthan, India  
+:calendar: 08/2021 - 11/2022 :earth_asia: Rajasthan, India  
 
 <ins>Flutter, Dart, React Native, ReactJS, Firebase </ins>  
 
@@ -61,7 +63,7 @@ B.Tech, Computer Science
 
 **Software Engineer**  
 **[Crypto Raja](https://cryptoraja.com/)**  
- 12/2020 - 07/2021 Rajasthan, India  
+ :calendar: 12/2020 - 07/2021 :earth_asia: Rajasthan, India  
 <ins>Front End development, Content Management, Marketing</ins>  
 - A platform providing news and updates on cryptocurrencies
 Launched Crypto Raja news platform, which covers trending updates in Bitcoin, Ethereum, and altcoins, significantly growing readership across India 
