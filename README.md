@@ -1,14 +1,15 @@
-## Farman Mohmmad
+# Farman Mohmmad
 Software Developer
 📞 +91-9352823951 📩 farmanwork73@gmail.com  🔗 LinkedIn ⚡ GitHub
 Monday, 15 September 2025
 
-# SKILLS
-MOBILE DEVELOPMENT | Flutter, Dart, React Native
-FRONT END DEVELOPMENT | ReactJS,  JavaScript,  HTML, CSS
-BACK END DEVELOPMENT | NodeJS, Express, Postgres, Firebase
-MISCELLANEOUS |  Android,  iOS, Tailwind CSS, TypeScript, C++, Java, Figma
-EXPERIENCE
+## SKILLS
+### MOBILE DEVELOPMENT | Flutter, Dart, React Native
+### FRONT END DEVELOPMENT | ReactJS,  JavaScript,  HTML, CSS
+### BACK END DEVELOPMENT | NodeJS, Express, Postgres, Firebase
+### MISCELLANEOUS |  Android,  iOS, Tailwind CSS, TypeScript, C++, Java, Figma
+
+## EXPERIENCE
 Software Engineer
 EdisonOS 
  12/2022 - 07/2025 Tamil Nadu, India
