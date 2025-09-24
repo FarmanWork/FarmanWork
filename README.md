@@ -9,6 +9,25 @@ Software Developer
  **BACK END DEVELOPMENT** | *NodeJS, Express, Postgres, Firebase*  
  **MISCELLANEOUS** | *Appium Testing, Fastlane, Tailwind CSS, TypeScript, C++, Java, Figma*  
 
+ ### EDUCATION  
+B.Tech, Computer Science  
+[Sobhasaria Group of Institutions, RTU Kota](https://www.secs.ac.in/)  
+2014 - 2018 Rajasthan, India
+
+###  PROJECTS  
+**[Slate Render](https://pub.dev/packages/slate_render)**  
+- Developed and published a package using Flutter and Dart.
+- Flutter package that helps you render content created with the Slate Editor into rich Flutter widgets.
+
+**[Tarawee](https://tarawee.in/)**  
+- Co-founded and launched  a website builder with built-in themes
+- Helps local businesses run their businesses online with minimal subscriptions
+- Ranging from business portfolios, e-Commerce, hotel booking, Donation management, to online course selling
+
+**[CryptoRaja](https://cryptoraja.com/)**  
+- Co-founded and launched a Cryptocurrency news platform, 
+- Covering trending updates in Bitcoin, Ethereum, and altcoins, with a growing readership across India.
+
 ### EXPERIENCE  
 **Software Engineer**  
 [EdisonOS](https://www.edisonos.com/)  
@@ -47,21 +66,4 @@ Software Developer
 - A platform providing news and updates on cryptocurrencies
 Launched Crypto Raja news platform, which covers trending updates in Bitcoin, Ethereum, and altcoins, significantly growing readership across India 
 
-### EDUCATION  
-B.Tech, Computer Science  
-[Sobhasaria Group of Institutions, RTU Kota](https://www.secs.ac.in/)  
-2014 - 2018 Rajasthan, India
-
-###  PROJECTS  
-**[Slate Render](https://pub.dev/packages/slate_render)**  
-- Developed and published a package using Flutter and Dart.
-- Flutter package that helps you render content created with the Slate Editor into rich Flutter widgets.
-
-**[Tarawee](https://tarawee.in/)**  
-- Co-founded and launched  a website builder with built-in themes
-- Helps local businesses run their businesses online with minimal subscriptions
-- Ranging from business portfolios, e-Commerce, hotel booking, Donation management, to online course selling
-
-**[CryptoRaja](https://cryptoraja.com/)**  
-- Co-founded and launched a Cryptocurrency news platform, 
-- Covering trending updates in Bitcoin, Ethereum, and altcoins, with a growing readership across India.
+
